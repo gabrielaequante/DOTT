@@ -1,4 +1,4 @@
-PAOLA MEJIA 
+
 # DOTT: DevOps Test Task
 
 Welcome to DOTT.
