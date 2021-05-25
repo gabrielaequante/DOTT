@@ -1,4 +1,6 @@
-Proyecto DevOps Academy 
+Proyecto DevOps Academy
+PAOLA MEJIA
+ 
 
 # DOTT: DevOps Test Task
 
