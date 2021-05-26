@@ -5,7 +5,7 @@ pipeline {
   stages {
     stage('requirements') {
       steps {
-        sh 'gem install bundler -v 2.0.1'
+        sh 'gem install bundler -v 2.2.18'
       }
     }
     stage('build') {
