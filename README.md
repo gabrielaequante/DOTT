@@ -1,6 +1,6 @@
 Proyecto DevOps Academy
 PAOLA MEJIA
-PRUEBA PARA SONAR 2
+PRUEBA PARA SONAR 3
 
 # DOTT: DevOps Test Task
 
