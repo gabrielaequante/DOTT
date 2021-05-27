@@ -1,6 +1,7 @@
 Proyecto DevOps Academy
 PAOLA MEJIA
 PRUEBA PARA SONAR 3
+GEM 3
 
 # DOTT: DevOps Test Task
 
