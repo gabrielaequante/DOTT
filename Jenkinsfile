@@ -1,11 +1,9 @@
-
 pipeline {
   agent any
-  
   stages {
     stage('requirements') {
       steps {
-        sh 'gem sinatra'
+        sh 'gem install bundler -v 2.0.1'
       }
     }
     stage('build') {
@@ -15,13 +13,8 @@ pipeline {
     }
     stage('test') {
       steps {
-        sh 'rake ci:all'
-      } 
-      post {
-        always {
-          junit 'test/reports/TEST-AppTest.xml'
-        }
-      }
+        sh 'rake'
+      }   
     }
   }
 }
