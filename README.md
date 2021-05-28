@@ -5,6 +5,7 @@ GEM 3
 PRUEBA 4
 PRUEBA PIPELINE
 Prueba 5
+Prueba6
 
 # DOTT: DevOps Test Task
 
