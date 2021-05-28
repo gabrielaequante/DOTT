@@ -6,6 +6,7 @@ PRUEBA 4
 PRUEBA PIPELINE
 Prueba 5
 Prueba6
+Prueba pipeline
 
 # DOTT: DevOps Test Task
 
